@@ -1,5 +1,7 @@
 ### Hi there 👋
-![Codewars](https://github.r2v.ch/codewars?user=USERNAME&top_languages=true)
+![Codewars](https://github.r2v.ch/codewars?user=MethxMaster&top_languages=true)
+- 🔭 I’m currently working on Electrical Engineer at Electricity Generating Authority of Thailand.
+- 🌱 I’m currently learning all skills to be full stack developer.
 <!--
 **MethxMaster/MethxMaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
