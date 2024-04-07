@@ -1,9 +1,10 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Electrical Engineer at Electricity Generating Authority of Thailand.
 - 🌱 I’m currently learning all skills to be full stack developer.
+
 ![Codewars](https://github.r2v.ch/codewars?user=MethxMaster&top_languages=true)
-![Top Langs](https://github-readme-stats.vercel.app/api?username=MethxMaster&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
-![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=MethxMaster&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=MethxMaster&theme=algolia&show_icons=true)
+![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=MethxMaster&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)
 <!--
 **MethxMaster/MethxMaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
